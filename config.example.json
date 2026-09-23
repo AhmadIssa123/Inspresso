@@ -1,0 +1,8 @@
+{
+  "target_mass_g": 36.0,
+  "mass_tolerance_g": 4.0,
+  "min_time_s": 25.0,
+  "max_time_s": 35.0,
+  "temperature_enabled": true,
+  "history_file": "data/shot_history.csv"
+}
